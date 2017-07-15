@@ -1,0 +1,47 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+  Your response goes here ---
+
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+  body{
+      margin-bottom: 30px;
+      max-width: 500px;
+      padding-left: 40px;
+  }
+
+    </style>
+  </head>
+  <body>
+  <p><strong>What new skills have you learned?</strong></p>
+    <p></p>
+  <p>  build simple pages with html</p>
+  <li>1:Knowing how to setup ide which Atom for me</li>
+  <li>2:build simple pages with html</li>
+
+  <p><strong>What has been easy?</strong></p>
+    <p>the easy part was the html tags. it's really Clear.</p>
+
+  <p><strong>What has been difficult?</strong></p>
+   <p>the difficult part with is layout
+   of the web page with sorting paragraph
+   it's kind of hard little bit</p>
+
+  <p><strong>How have you used the problem solving strategies from
+  the first project to overcome challenges so far?</strong></p>
+  <li>  w3school was perfect</li>
+    <li>looking at the code several times</li>
+
+    <p>Yes that's it</p>
+
+      </body>
+
+    </html>
